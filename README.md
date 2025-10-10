@@ -1,4 +1,7 @@
 # Hexlet
+
+ВНИМАНИЕ! Место для обсуждения фич Хекслета переехало сюда => https://github.com/Hexlet/hexlet.github.io/discussions
+
 ## Появилась идея по улучшению Хекслета?
 
 * Запишите идею в _issues_.
